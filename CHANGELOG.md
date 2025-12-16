@@ -2,19 +2,28 @@
 
 All notable changes to Atlas will be documented in this file.
 
-## [0.1.0-alpha.1] - 2025-XX-XX
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [0.1.0-alpha.1] - 2024-XX-XX
 
 ### Added
+
 - Initial alpha release
-- Fast CSV loading with memory-mapped I/O
-- Virtual scrolling for large datasets
-- Column statistics (min, max, nulls, unique counts)
-- Type detection for numeric columns  
-- Filtering with contains, equals, and comparison operators
-- Export to CSV and Excel
-- 5-day trial with license activation
+- CSV file loading with memory-mapped I/O for fast performance
+- Virtual scrolling grid for smooth navigation through large datasets
+- Column statistics panel (min, max, null count, unique estimate)
+- Type detection for numeric columns
+- Filtering with contains, equals, greater than, less than operators
+- Export to CSV and Excel formats
+- 5-day trial with license key activation
 - Cross-platform support (macOS, Windows, Linux)
+- Update notification banner (checks GitHub releases)
 
 ### Known Issues
-- No auto-update (manual download required)
+
+- No auto-update yet (manual download required)
 - Unsigned binaries cause OS security warnings
+- Performance may degrade with 100+ columns
