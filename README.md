@@ -10,11 +10,11 @@ Download the latest version for your platform:
 
 | Platform | Download |
 |----------|----------|
-| **macOS** | [CSV-Titan_x.x.x_x64.dmg](https://github.com/obiesie/csv-titan-releases/releases/latest) |
-| **Windows** | [CSV-Titan_x.x.x_x64-setup.exe](https://github.com/obiesie/csv-titan-releases/releases/latest) |
-| **Linux** | [csv-titan_x.x.x_amd64.deb](https://github.com/obiesie/csv-titan-releases/releases/latest) |
+| **macOS** | [CSV-Titan_x.x.x_x64.dmg](https://github.com/obiesie/csvtitan-releases/releases/latest) |
+| **Windows** | [CSV-Titan_x.x.x_x64-setup.exe](https://github.com/obiesie/csvtitan-releases/releases/latest) |
+| **Linux** | [csv-titan_x.x.x_amd64.deb](https://github.com/obiesie/csvtitan-releases/releases/latest) |
 
-👉 **[View All Releases](https://github.com/obiesie/csv-titan-releases/releases)**
+👉 **[View All Releases](https://github.com/obiesie/csvtitan-releases/releases)**
 
 ## Features
 
@@ -71,7 +71,7 @@ CSV Titan uses a trial + license key system:
 ## Feedback & Support
 
 - **Website**: [csvtitan.com](https://csvtitan.com)
-- **Bug Reports**: [GitHub Issues](https://github.com/obiesie/csv-titan-releases/issues)
+- **Bug Reports**: [GitHub Issues](https://github.com/obiesie/csvtitan-releases/issues)
 - **Email**: support@csvtitan.com
 
 ---
