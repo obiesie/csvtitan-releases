@@ -1,6 +1,8 @@
-# Atlas
+# CSV Titan
 
 A fast, lightweight desktop application for exploring and analyzing large CSV files.
+
+🌐 **[csvtitan.com](https://csvtitan.com)**
 
 ## Download
 
@@ -8,11 +10,11 @@ Download the latest version for your platform:
 
 | Platform | Download |
 |----------|----------|
-| **macOS** | [Atlas_x.x.x_x64.dmg](https://github.com/obiesie/atlas-releases/releases/latest) |
-| **Windows** | [Atlas_x.x.x_x64-setup.exe](https://github.com/obiesie/atlas-releases/releases/latest) |
-| **Linux** | [atlas_x.x.x_amd64.deb](https://github.com/obiesie/atlas-releases/releases/latest) |
+| **macOS** | [CSV-Titan_x.x.x_x64.dmg](https://github.com/obiesie/csv-titan-releases/releases/latest) |
+| **Windows** | [CSV-Titan_x.x.x_x64-setup.exe](https://github.com/obiesie/csv-titan-releases/releases/latest) |
+| **Linux** | [csv-titan_x.x.x_amd64.deb](https://github.com/obiesie/csv-titan-releases/releases/latest) |
 
-👉 **[View All Releases](https://github.com/obiesie/atlas-releases/releases)**
+👉 **[View All Releases](https://github.com/obiesie/csv-titan-releases/releases)**
 
 ## Features
 
@@ -29,12 +31,12 @@ Download the latest version for your platform:
 ### macOS
 
 1. Download the `.dmg` file
-2. Open it and drag Atlas to Applications
+2. Open it and drag CSV Titan to Applications
 3. **First launch**: Right-click → Open → Click "Open" (required for unsigned apps)
 
-If you see "Atlas is damaged":
+If you see "CSV Titan is damaged":
 ```bash
-xattr -cr /Applications/Atlas.app
+xattr -cr /Applications/CSV\ Titan.app
 ```
 
 ### Windows
@@ -46,10 +48,10 @@ xattr -cr /Applications/Atlas.app
 
 ```bash
 # Debian/Ubuntu
-sudo dpkg -i atlas_*.deb
+sudo dpkg -i csv-titan_*.deb
 
 # AppImage
-chmod +x Atlas_*.AppImage && ./Atlas_*.AppImage
+chmod +x CSV-Titan_*.AppImage && ./CSV-Titan_*.AppImage
 ```
 
 ## System Requirements
@@ -61,16 +63,17 @@ chmod +x Atlas_*.AppImage && ./Atlas_*.AppImage
 
 ## License
 
-Atlas uses a trial + license key system:
+CSV Titan uses a trial + license key system:
 - 5-day free trial with full access
 - After trial, app continues with periodic reminders
 - Purchase a license key to remove reminders
 
 ## Feedback & Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/obiesie/atlas-releases/issues)
-- **Email**: atlas-support@yourdomain.com
+- **Website**: [csvtitan.com](https://csvtitan.com)
+- **Bug Reports**: [GitHub Issues](https://github.com/obiesie/csv-titan-releases/issues)
+- **Email**: support@csvtitan.com
 
 ---
 
-© 2025 Your Name. All rights reserved.
+© 2025 CSV Titan. All rights reserved.

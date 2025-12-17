@@ -2,9 +2,9 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Atlas, please report it by emailing:
+If you discover a security vulnerability in CSV Titan, please report it by emailing:
 
-**atlas-security@yourdomain.com**
+**security@csvtitan.com**
 
 Please do NOT open a public GitHub issue for security vulnerabilities.
 
@@ -16,7 +16,7 @@ Please do NOT open a public GitHub issue for security vulnerabilities.
 
 ## Code Signing Status
 
-Atlas alpha releases are currently **unsigned**. This means:
+CSV Titan alpha releases are currently **unsigned**. This means:
 
 - **macOS**: You'll see a Gatekeeper warning on first launch
 - **Windows**: SmartScreen may show a warning
