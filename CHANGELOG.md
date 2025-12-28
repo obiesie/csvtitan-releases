@@ -2,7 +2,14 @@
 
 All notable changes to CSV Titan will be documented in this file.
 
-## [0.1.0-alpha.1] - 2025-12-26
+## [0.1.0-alpha.2] - 2025-12-28
+
+### Changed
+
+- Bumped version to `0.1.0-alpha.2`
+- Removed debug `console.log` statements
+
+## [0.1.0-alpha.1] - 2025-12-27
 
 ### Added
 
