@@ -2,6 +2,11 @@
 
 All notable changes to CSV Titan will be documented in this file.
 
+## [0.1.0] - 2025-12-28
+
+### Added
+- First public release
+
 ## [0.1.0-alpha.2] - 2025-12-28
 
 ### Changed
