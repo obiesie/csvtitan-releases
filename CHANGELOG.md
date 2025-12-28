@@ -4,18 +4,20 @@ All notable changes to CSV Titan will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [0.1.0] - 2024-12-28
 
-## [0.1.0] - 2025-12-28
+### Changed
 
+- Removed debug logging
+- Improved status bar messages during optimization. 
 
 ### Fixed
-- Fixed MSI installer build error
-- Fixed blank data display issue in table views
-- Fixed file switching not triggering conversion
-- Fixed broken row counts for certain malformed CSV files
-- Removed debug `console.log` statements
 
-## [0.1.0-alpha.1] - 2025-12-27
+- Fixed an issue where CSV files with quoted column headers displayed as blank tables
+- Fixed an issue where optimization might not trigger when switching files
+
+
+## [0.1.0-alpha.1] - 2024-12-27
 
 ### Added
 
@@ -32,6 +34,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Known Issues
 
-- No auto-update yet (manual download required)
 - Unsigned binaries cause OS security warnings
 - Performance may degrade with 100+ columns
