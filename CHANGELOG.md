@@ -7,9 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.0] - 2025-12-28
 
-### Changed
+### Added
+- First public release
 
-- Bumped version to `0.1.0`
+### Fixed
+- Fixed MSI installer build error
+- Fixed blank data display issue in table views
+- Fixed file switching not triggering conversion
+- Fixed broken row counts for certain malformed CSV files
 - Removed debug `console.log` statements
 
 ## [0.1.0-alpha.1] - 2025-12-27
