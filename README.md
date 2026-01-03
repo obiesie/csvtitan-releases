@@ -21,7 +21,6 @@ Download the latest version for your platform:
 - **Blazing Fast** — Opens multi-GB CSV files in seconds
 - **Virtual Scrolling** — Smoothly scroll through millions of rows
 - **Column Statistics** — View min, max, null counts, and unique estimates
-- **Smart Type Detection** — Automatically detects column types
 - **Filtering** — Filter data with contains, equals, and comparison operators
 - **Export** — Export filtered results to CSV or Excel
 - **Cross-Platform** — Works on macOS, Windows, and Linux
