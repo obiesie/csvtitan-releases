@@ -10,9 +10,9 @@ Download the latest version for your platform:
 
 | Platform | Download |
 |----------|----------|
-| **macOS** | [CSV-Titan_0.1.0_x64.dmg](https://github.com/obiesie/csvtitan-releases/releases/latest) |
-| **Windows** | [CSV-Titan_0.1.0_x64-setup.exe](https://github.com/obiesie/csvtitan-releases/releases/latest) |
-| **Linux** | [csv-titan_0.1.0_amd64.deb](https://github.com/obiesie/csvtitan-releases/releases/latest) |
+| **macOS** | [CSV-Titan_0.1.1_x64.dmg](https://github.com/obiesie/csvtitan-releases/releases/latest) |
+| **Windows** | [CSV-Titan_0.1.1_x64-setup.exe](https://github.com/obiesie/csvtitan-releases/releases/latest) |
+| **Linux** | [csv-titan_0.1.1_amd64.deb](https://github.com/obiesie/csvtitan-releases/releases/latest) |
 
 👉 **[View All Releases](https://github.com/obiesie/csvtitan-releases/releases)**
 
